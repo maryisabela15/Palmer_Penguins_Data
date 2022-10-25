@@ -12,7 +12,6 @@ This code use the Palmer Penguins dataset for analize and visualize some importa
 ### Packages to use:
 ```
 import pandas as pd
-import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 ```
