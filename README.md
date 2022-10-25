@@ -38,7 +38,7 @@ plt.xlabel("Species")
 plt.title("Palmer Penguins Species")
 plt.show()
 ```
-![](./gallery/Figure_1.png)
+![](./Gallery/Figure_1.png)
 
 ### Plot 2:
 * Relationship between body mass and the flipper length per species
@@ -50,7 +50,7 @@ plt.xlabel("Body mass (g)")
 plt.title("Relationship between Body mass and Flipper length per Species")
 plt.show()
 ```
-![](./gallery/Figure_2.png)
+![](./Gallery/Figure_2.png)
 
 ### Plot 3:
 * Relationship between culmen length and flipper length per island
@@ -62,7 +62,7 @@ plt.xlabel("Body mass (g)")
 plt.title("Relationship between Body mass and Flipper length per Islands")
 plt.show()
 ```
-![](./gallery/Figure_3.png)
+![](./Gallery/Figure_3.png)
 
 ### Plot 4:
 * Relationship between flipper length and species
@@ -73,7 +73,7 @@ plt.xlabel("Species")
 plt.title("Flipper length per Species")
 plt.show()
 ```
-![](./gallery/Figure_4.png)
+![](./Gallery/Figure_4.png)
 
 ### Plot 5:
 * Relationship between culmen depth and species/sex
@@ -84,3 +84,4 @@ plt.xlabel("Culmen depth (mm)")
 plt.title("Culmen depth per Species/Sex")
 plt.show()
 ```
+![](./Gallery/Figure_5.png)
