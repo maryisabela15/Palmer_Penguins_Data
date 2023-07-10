@@ -1,5 +1,5 @@
 # Palmer_Penguins_Data
-Simple Python script for analize and visualize Palmer Pinguins Dataset
+Simple Python script for analize and visualize Palmer Penguins Dataset
 
 ## Program: **palmer_penguins**
 
